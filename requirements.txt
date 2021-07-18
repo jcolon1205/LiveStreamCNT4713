@@ -10,6 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 numpy==1.21.0
+opencv-contrib-python-headless==4.5.3.56
 opencv-python==4.5.2.54
 python-vlc==3.0.12118
 six==1.15.0
